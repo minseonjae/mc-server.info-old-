@@ -214,11 +214,6 @@ public class DataThread extends Thread {
 			List<String> times2 = chart2.getStringList("time");
 			List<Integer> players2 = chart2.getIntegerList("players");
 			
-			if (times2.size() >= MCSI.getChart_Size()) {
-				times2.remove(0);
-				players2.remove(0);
-			}
-			
 			times2.add(time);
 			players2.add(players);
 			
