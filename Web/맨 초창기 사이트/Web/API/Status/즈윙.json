@@ -1,0 +1,11 @@
+{
+	"ip":"zwing.wo.tc",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§f[§21.12§f]반야생 경제 즈윙서버http:\/\/cafe.naver.com\/zwings",
+	"players":"31",
+	"maxplayers":"200",
+	"ping":16,
+	"srv":false
+}

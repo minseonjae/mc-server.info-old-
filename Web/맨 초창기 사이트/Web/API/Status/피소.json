@@ -1,0 +1,11 @@
+{
+	"ip":"psv.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§f§l[ §c§l피소서버 §f§l] §e§l11시 오늘 마지막 이벤트 ( 추첨 ) ( 받아쓰기 )",
+	"players":"66",
+	"maxplayers":"120",
+	"ping":31,
+	"srv":true
+}

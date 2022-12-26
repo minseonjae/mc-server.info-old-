@@ -1,0 +1,11 @@
+{
+	"ip":"saw24.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§a[ §f쏘우서버 §a] §f서버 878 여행가서 1\/21일 오픈합니다",
+	"players":"0",
+	"maxplayers":"1",
+	"ping":16,
+	"srv":true
+}

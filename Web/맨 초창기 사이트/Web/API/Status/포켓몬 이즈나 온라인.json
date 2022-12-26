@@ -1,0 +1,11 @@
+{
+	"ip":"poke.teamblank.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"",
+	"motd":"§f§f§l>>§e§l대한민국 §2§l최고의 포켓몬 서버 §6§l이즈나 온라인",
+	"players":"104",
+	"maxplayers":"1000",
+	"ping":15,
+	"srv":true
+}

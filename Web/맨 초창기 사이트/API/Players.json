@@ -1,0 +1,18 @@
+{
+	"players":351,
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-27 오후 08:21:15",
+			"players":781
+		},
+		"today":{
+			"time":"오후 03:17:15",
+			"players":653
+		},
+		"yesterday":{
+			"time":"오후 06:47:15",
+			"players":641
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ip":"rendog.kr",
+	"port":"25565",
+	"protocol":"127",
+	"version":"1.12.2",
+	"motd":"Server Opening Soon...",
+	"players":"130",
+	"maxplayers":"2018",
+	"ping":"0"
+}

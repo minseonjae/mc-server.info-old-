@@ -1,0 +1,10 @@
+{
+	"ip":"pluscraft.kr",
+	"port":"25565",
+	"protocol":"61",
+	"version":"1.8.X ~ 1.13.X",
+	"motd":"§b§lPlusCraft §e§l임시 §a§l야생서버 §8[ §f1.8.X - 1.13.X §8]\n§f§l12\/23 (일) 오후 2시 §d§l시즌 3 오픈예정!",
+	"players":"4",
+	"maxplayers":"50",
+	"ping":"110"
+}

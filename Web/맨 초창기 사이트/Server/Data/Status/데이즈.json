@@ -1,0 +1,10 @@
+{
+	"ip":"day-z.kr",
+	"port":"25565",
+	"protocol":"61",
+	"version":"Spigot 1.8.8",
+	"motd":"§c[§f D-DAYZ §c]",
+	"players":"5",
+	"maxplayers":"100",
+	"ping":"112"
+}

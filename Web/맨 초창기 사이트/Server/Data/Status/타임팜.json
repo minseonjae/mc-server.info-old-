@@ -1,0 +1,10 @@
+{
+	"ip":"timef.kr",
+	"port":"25565",
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§f§c[ 타임팜 ] §d24시간 §a마인팜 §f서버 §6매일 오후 6시\/9시 §c핫타임§f!",
+	"players":"2",
+	"maxplayers":"200",
+	"ping":"31"
+}

@@ -1,0 +1,33 @@
+{
+	"version":"BungeeCord 1.8.x-1.12.x",
+	"protocol":127,
+	"motd":"§f§f                  §2§l1.8)  §b§lLeaf Server  §2§l(1.12.2",
+	"players":0,
+	"maxplayers":2019,
+	"ping":16,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1391,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-09 오후 08:31:00",
+			"players":52
+		},
+		"today":{
+			"time":"오후 09:46:00",
+			"players":20
+		},
+		"yesterday":{
+			"time":"오후 04:08:00",
+			"players":25
+		}
+	}
+}

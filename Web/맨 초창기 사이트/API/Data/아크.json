@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§8<< §4A r k §8>> §6사전 예약 많은 신청 바랍니다! 디스코드 참조 !!",
+	"players":0,
+	"maxplayers":100,
+	"ping":46,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1389,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-26 오후 06:32:00",
+			"players":38
+		},
+		"today":{
+			"time":"오후 10:59:00",
+			"players":2
+		},
+		"yesterday":{
+			"time":"오후 12:25:00",
+			"players":6
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"version":"Travertine 1.7.x, 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x",
+	"protocol":127,
+	"motd":"§f§f§l|§f§l§o Phrack 서버 §f§l| §2§l접속가능!§f§l |§a§l  1 . 12 . 2",
+	"players":0,
+	"maxplayers":10,
+	"ping":15,
+	"srv":true,
+	"online":false,
+	"uptime":{
+		"get":0,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-02-24 오후 12:46:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-07 오후 10:24:00",
+			"players":26
+		},
+		"today":{
+			"time":"?",
+			"players":0
+		},
+		"yesterday":{
+			"time":"?",
+			"players":0
+		}
+	}
+}

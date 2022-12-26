@@ -1,0 +1,11 @@
+{
+	"ip":"blage.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§c§l [1.12.2] §f§l§oBELLAAGE §c§l§o국가전쟁RPG",
+	"players":"127",
+	"maxplayers":"300",
+	"ping":16,
+	"srv":true
+}

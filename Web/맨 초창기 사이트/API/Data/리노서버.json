@@ -1,0 +1,33 @@
+{
+	"version":"Paper 1.12.2",
+	"protocol":127,
+	"motd":"§f§l[ §a§l리노서버 §f§l] §f시즌2가 오픈되었습니다 ! §b§l다들 접속 ! ",
+	"players":12,
+	"maxplayers":100,
+	"ping":0,
+	"srv":true,
+	"online":false,
+	"uptime":{
+		"get":871,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 09:07:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-12 오후 09:44:01",
+			"players":48
+		},
+		"today":{
+			"time":"오후 09:06:00",
+			"players":12
+		},
+		"yesterday":{
+			"time":"오후 06:11:00",
+			"players":14
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"ip":"pluscraft.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.8.X - 1.13.X",
+	"motd":"§b§lPlusCraft §d§lSeason 3 §8§l[ §cMINEFARM §8| §eMINIGAMES §8| §a1.8 - 1.13 §8§l]\n§8§l[ §f§l최고동접 105명 달성! §6§l감사합니다! §8§l]",
+	"players":"45",
+	"maxplayers":"300",
+	"ping":109,
+	"srv":false
+}

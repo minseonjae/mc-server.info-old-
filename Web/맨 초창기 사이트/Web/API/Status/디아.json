@@ -1,0 +1,11 @@
+{
+	"ip":"disv24.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"1.12.2",
+	"motd":"Server is starting..",
+	"players":"10",
+	"maxplayers":"500",
+	"ping":0,
+	"srv":true
+}

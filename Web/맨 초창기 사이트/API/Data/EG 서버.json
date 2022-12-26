@@ -1,0 +1,33 @@
+{
+	"version":"Paper 1.12.2",
+	"protocol":127,
+	"motd":"§6§lEG SKY §7§lNETWORK §f§l지금까지 보지 못한 §a§l마인팜 §f§l서버!",
+	"players":109,
+	"maxplayers":300,
+	"ping":0,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1387,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-27 오후 09:02:00",
+			"players":239
+		},
+		"today":{
+			"time":"오후 07:18:00",
+			"players":170
+		},
+		"yesterday":{
+			"time":"오후 09:11:00",
+			"players":177
+		}
+	}
+}

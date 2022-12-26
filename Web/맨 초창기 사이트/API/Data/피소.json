@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§f[ §c§lPSV §f] §a§l§4백섭 취소다 11시 20분 초대박 점검 이벤트",
+	"players":43,
+	"maxplayers":150,
+	"ping":15,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1370,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-09 오후 06:47:00",
+			"players":96
+		},
+		"today":{
+			"time":"오후 05:03:00",
+			"players":80
+		},
+		"yesterday":{
+			"time":"오후 06:47:00",
+			"players":96
+		}
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§6§l[§f§l 닭§6§l ]§e§l 9시§f§l 이벤트..? 내일부터 벨런스패치 \/ 맵리메이크? \/ 노가다패치 시작 ! ",
+	"players":5,
+	"maxplayers":120,
+	"ping":47,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1393,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-02 오후 09:33:00",
+			"players":68
+		},
+		"today":{
+			"time":"오후 03:26:00",
+			"players":31
+		},
+		"yesterday":{
+			"time":"오후 12:08:00",
+			"players":41
+		}
+	}
+}

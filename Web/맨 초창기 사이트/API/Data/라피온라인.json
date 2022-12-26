@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§b[ §f필드전쟁 §b] §f§l호스팅 이동 완료.",
+	"players":0,
+	"maxplayers":100,
+	"ping":46,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1388,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-10 오후 07:33:00",
+			"players":7
+		},
+		"today":{
+			"time":"오후 07:33:00",
+			"players":7
+		},
+		"yesterday":{
+			"time":"오후 12:42:00",
+			"players":5
+		}
+	}
+}

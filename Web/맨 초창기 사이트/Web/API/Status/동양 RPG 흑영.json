@@ -1,0 +1,11 @@
+{
+	"ip":"erpg.skhidc.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§6§l[동양 RPG - 흑영(1서버)] §a즐거운 하루 되세요!                    §b2서버 적영서버 - erpg1.skhidc.kr",
+	"players":"16",
+	"maxplayers":"190",
+	"ping":0,
+	"srv":false
+}

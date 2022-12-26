@@ -1,0 +1,11 @@
+{
+	"ip":"Play.Lite24.me",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§e§l[ §f§lLITE §a§lS2 §e§l] §f§l 1.12.2 ~ 1.13.2 【 §a마인팜 §f§l| §6개인월드§f§l 】",
+	"players":"36",
+	"maxplayers":"100",
+	"ping":16,
+	"srv":true
+}

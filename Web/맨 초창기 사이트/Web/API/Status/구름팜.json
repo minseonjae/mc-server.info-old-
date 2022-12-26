@@ -1,0 +1,11 @@
+{
+	"ip":"cloudf.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§3[§b§l구름팜§3] §f즐거운 화요일, §e§l9시 핫타임 §f가즈앙!",
+	"players":"65",
+	"maxplayers":"2019",
+	"ping":31,
+	"srv":true
+}

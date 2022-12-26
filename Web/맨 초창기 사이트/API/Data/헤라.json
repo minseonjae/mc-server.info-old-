@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§2[ §e도시능력자 §2] §f1채널을 제외하고 랭크적용 X §6[§f오류§6]",
+	"players":0,
+	"maxplayers":150,
+	"ping":15,
+	"srv":true,
+	"online":false,
+	"uptime":{
+		"get":0,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-02-28 오전 12:43:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-01-27 오후 09:26:00",
+			"players":41
+		},
+		"today":{
+			"time":"?",
+			"players":0
+		},
+		"yesterday":{
+			"time":"?",
+			"players":0
+		}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"ip":"psv.kr",
+	"port":"25565",
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§c§l피소서버 §f§l> §e§l2대2 대회 준비 중 §6§l빨리 들어오세요",
+	"players":"71",
+	"maxplayers":"150",
+	"ping":"16"
+}

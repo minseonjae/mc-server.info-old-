@@ -1,0 +1,11 @@
+{
+	"ip":"Phrack.xyz",
+	"port":25565,
+	"protocol":"127",
+	"version":"Travertine 1.7.x, 1.8.x, 1.9.x, 1.10.x, 1.11.x, 1.12.x, 1.13.x",
+	"motd":"§f§f§l|§f§l§o Phrack 서버 §f§l| §2§l접속가능!§f§l |§a§l  1 . 12 . 2",
+	"players":"7",
+	"maxplayers":"10000",
+	"ping":16,
+	"srv":true
+}

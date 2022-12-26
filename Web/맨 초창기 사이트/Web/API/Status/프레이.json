@@ -1,0 +1,11 @@
+{
+	"ip":"prays.kr",
+	"port":25565,
+	"protocol":-1,
+	"version":"?",
+	"motd":"?",
+	"players":0,
+	"maxplayers":0,
+	"ping":-1,
+	"srv":true
+}

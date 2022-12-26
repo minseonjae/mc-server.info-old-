@@ -1,0 +1,10 @@
+{
+	"ip":"play.arkanetwork.net",
+	"port":"25565",
+	"protocol":"127",
+	"version":"Travertine 1.7.x to 1.13.x",
+	"motd":"§f§f              §3§l§m  §b§l§m  §f§l§m  §f §b§lArka§f§l Network §f§l§m  §b§l§m  §3§l§m  §f",
+	"players":"46",
+	"maxplayers":"10000",
+	"ping":"0"
+}

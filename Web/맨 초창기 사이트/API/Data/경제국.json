@@ -1,0 +1,33 @@
+{
+	"version":"1.12.2",
+	"protocol":127,
+	"motd":"BATTLECRAFT",
+	"players":1,
+	"maxplayers":60,
+	"ping":0,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1389,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-09 오후 04:32:00",
+			"players":24
+		},
+		"today":{
+			"time":"오후 05:41:01",
+			"players":16
+		},
+		"yesterday":{
+			"time":"오후 10:35:00",
+			"players":14
+		}
+	}
+}

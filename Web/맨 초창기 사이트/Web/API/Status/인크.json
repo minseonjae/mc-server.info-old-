@@ -1,0 +1,11 @@
+{
+	"ip":"inksv.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§a[ §f인크서버 §a] §e§l5 6 7 8 9시 §d§l신기전§6§l랜덤상자 §3§l<희귀템>",
+	"players":"0",
+	"maxplayers":"2018",
+	"ping":15137,
+	"srv":true
+}

@@ -1,0 +1,11 @@
+{
+	"ip":"Elland.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"BungeeCord 1.8.x-1.13.x",
+	"motd":"§f§9§l2019 엘란드온라인 §a[ §b1.8.* ~ 1.13X §a\/ §b24시간 §a\/ §b복합컨텐츠 §a]",
+	"players":"25",
+	"maxplayers":"1000",
+	"ping":0,
+	"srv":false
+}

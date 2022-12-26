@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§f§l[ §b§lJack §f§l] §f§l매일 오후7시,10시 §c§l핫타임§f  §f[§b§l은행§f]§l추가!                    §e§l카페확인",
+	"players":31,
+	"maxplayers":100,
+	"ping":16,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1389,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-09 오후 09:52:00",
+			"players":64
+		},
+		"today":{
+			"time":"오전 12:00:00",
+			"players":53
+		},
+		"yesterday":{
+			"time":"오후 09:52:00",
+			"players":64
+		}
+	}
+}

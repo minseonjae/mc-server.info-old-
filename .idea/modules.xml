@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Library/Library.iml" filepath="$PROJECT_DIR$/Library/Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC Server Info (gui)/MC Server Info (gui).iml" filepath="$PROJECT_DIR$/MC Server Info (gui)/MC Server Info (gui).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC Server Info (old)/MC Server Info (old).iml" filepath="$PROJECT_DIR$/MC Server Info (old)/MC Server Info (old).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC Server Info (remake?)/MC Server Info (remake?).iml" filepath="$PROJECT_DIR$/MC Server Info (remake?)/MC Server Info (remake?).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MC Server Info (sql)/MC Server Info (sql).iml" filepath="$PROJECT_DIR$/MC Server Info (sql)/MC Server Info (sql).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§f§l[ §b§lWoW §f§l] §3초대형 업데이트 작업중... §e§l카페확인",
+	"players":0,
+	"maxplayers":100,
+	"ping":18,
+	"srv":true,
+	"online":false,
+	"uptime":{
+		"get":0,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-09 오후 05:36:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-02-06 오후 09:02:00",
+			"players":44
+		},
+		"today":{
+			"time":"?",
+			"players":0
+		},
+		"yesterday":{
+			"time":"?",
+			"players":0
+		}
+	}
+}

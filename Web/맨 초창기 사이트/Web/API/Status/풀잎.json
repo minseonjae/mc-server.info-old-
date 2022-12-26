@@ -1,0 +1,11 @@
+{
+	"ip":"leafserver.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"BungeeCord 1.8.x-1.12.x",
+	"motd":"§f§2Leaf Server §f:: 카페 공지사항 확인! ",
+	"players":"12",
+	"maxplayers":"1000",
+	"ping":0,
+	"srv":true
+}

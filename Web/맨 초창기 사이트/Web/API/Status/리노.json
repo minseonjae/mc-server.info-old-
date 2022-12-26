@@ -1,0 +1,11 @@
+{
+	"ip":"rino24.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§f§l[ §a§l리노서버 §f§l] §f시즌2가 오픈되었습니다 ! §b§l다들 접속 ! ",
+	"players":"17",
+	"maxplayers":"100",
+	"ping":16,
+	"srv":true
+}

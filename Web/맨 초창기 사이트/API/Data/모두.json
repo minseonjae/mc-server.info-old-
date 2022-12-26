@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§f[ §aMDSV §f] §e9시에 \" §b다셋 §e\" + 강력한 무기들 추첨! ",
+	"players":11,
+	"maxplayers":300,
+	"ping":47,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1362,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-01 오후 06:06:00",
+			"players":58
+		},
+		"today":{
+			"time":"오후 02:11:05",
+			"players":28
+		},
+		"yesterday":{
+			"time":"오후 02:07:00",
+			"players":50
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"time-out":{
+		"data":1000,
+		"thread":15000
+	},
+	"chart-size":12,
+	"folder":"Web\/API\/"
+}

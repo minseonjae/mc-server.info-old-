@@ -1,0 +1,11 @@
+{
+	"ip":"mcwplus.com",
+	"port":25565,
+	"protocol":"127",
+	"version":"1.12",
+	"motd":"§eMCW Plus §f| §a24 Hours",
+	"players":"17",
+	"maxplayers":"50",
+	"ping":78,
+	"srv":false
+}

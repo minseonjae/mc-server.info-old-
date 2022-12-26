@@ -1,0 +1,11 @@
+{
+	"ip":"timef.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§b§l[아워팜] §f§l최고§f의 §f마인팜 §f§l최고§f의 재미! §b§l[핫타임 9시]                         [신생서버] [쾌적]",
+	"players":"132",
+	"maxplayers":"333",
+	"ping":31,
+	"srv":true
+}

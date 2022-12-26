@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§a[ §f쏘우서버 §a] §f9시 리붓합니다",
+	"players":19,
+	"maxplayers":20,
+	"ping":47,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1383,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-01 오후 04:35:00",
+			"players":84
+		},
+		"today":{
+			"time":"오후 05:25:00",
+			"players":43
+		},
+		"yesterday":{
+			"time":"오후 06:13:00",
+			"players":58
+		}
+	}
+}

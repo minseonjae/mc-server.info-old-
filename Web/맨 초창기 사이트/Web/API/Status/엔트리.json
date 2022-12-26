@@ -1,0 +1,11 @@
+{
+	"ip":"antry.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"1.12.2",
+	"motd":"A Minecraft Server",
+	"players":"23",
+	"maxplayers":"80",
+	"ping":0,
+	"srv":true
+}

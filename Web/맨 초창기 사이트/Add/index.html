@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Minecraft Server Info</title>
+		<meta name="description" content="Minecraft Server Info">
+		
+		<link rel="apple-touch-icon" href="../icon.png">
+		<link rel="shortcut icon" href="../icon.png">
+
+		<link href="../css/bootstrap.css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<br><br><br>
+					<h1>Minecraft Server Info</h1>
+					<br><br><br>
+					<nav class="navbar navbar-default">
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+						</div>
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li><a href="../">홈</a></li>
+								<li><a href="../Add">추가</a></li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">서버 <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a href="../Server/Top/Players">동시 접속자 순위</a></li>
+										<li><a href="../Server/Top//Peak/Allday">최고 동시 접속자 순위</a></li>
+										<li><a href="../Server/Top//Peak/Today">오늘 최고 동시 접속자 순위</a></li>
+										<li><a href="../Server/Top//Peak/Yesterday">어제 최고 동시 접속자 순위</a></li>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">문의 <span class="caret"></span></a>
+									<ul class="dropdown-menu" role="menu">
+										<li><a>Discord : McServerInfo#5047</a></li>
+									</ul>
+								</li>
+								<li><a href="../TermsAndConditions">이용약관</a></li>
+								<li><a href="../PrivacyAgreement">개인정보취급방침</a></li>
+							</ul>
+							<form action="../Search" method="get" class="navbar-form navbar-right" role="search">
+								<div class="form-group">
+									<input type="text" name="search" class="form-control" placeholder="Search">
+								</div>
+								<button type="submit" class="btn btn-default">검색</button>
+							</form>
+						</div>
+					</nav>
+					<hr>
+					<div class="row">
+						<div class="col-md-7">
+							<div class="panel panel-info">
+								<div class="panel-heading">
+									서버 추가
+								</div>
+								<div class="panel-body">
+									<br>
+									Minecraft Java Edition (PC) 서버만 추가하실 수 있습니다.
+									<br><br>
+									마인크래프트 서버의 기본 포트는 <code>25565</code>입니다.
+									<br><br>
+									서버 이름을 적으실 때 <code>풀잎서버</code> 중 <code>풀잎</code>만 적으시면 되며, 
+									<br><br>
+									서버가 온라인(켜진 상태)일 때만 추가가 가능합니다.
+									<br><br>
+									서버가 SRV 레코드을 사용 중에 있어도 추가하실 수 있으며,
+									<br>
+									서버를 등록하는 이용자와 등록하는 서버의 아이피 지역이 한국이여야 추가가 가능합니다.
+									<br><br>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-5">
+							<br>
+							<form action="add.php" method="POST">
+								<div class="form-group">
+									<label>서버 이름</label>
+									<input class="form-control" type="text" name="name">
+								</div>
+								<div class="form-group">
+									<label>서버 주소</label>
+									<input class="form-control" type="text" name="ip">
+								</div>
+								<div class="form-group">
+									<label>서버 포트</label>
+									<input class="form-control" type="text" name="port" placeholder="25565">
+								</div>
+								<label class="checkbox-inline">
+									<input type="checkbox" name="check"> 이용약관 및 개인정보취급방침에 동의합니다.
+								</label>
+								<br><br>
+								<input class="btn btn-info btn-lg btn-block" type="submit" value="추가">
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script src="../js/bootstrap.min.js"></script>
+	</body>
+</html>

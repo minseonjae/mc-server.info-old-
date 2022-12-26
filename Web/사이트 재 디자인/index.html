@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+		<meta name="description" content="Minecraft Server Info">
+		
+		<title>Minecraft Server Info</title>
+
+		<link rel="apple-touch-icon" href="icon.png">
+		<link rel="shortcut icon" href="icon.png">
+		
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+	</head>
+	<body>
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-1"></div>
+				<div class="col-xs-12 col-sm-10 col-md-10">
+					<br><br><br>
+					<h1>Minecraft Server Info</h1>
+					<br>
+					<h5>
+						<small>
+							<p class="text-right">
+								made by.SJ <br>
+								모바일은 지원하지 않습니다.
+							</p>
+						</small>
+					</h5>
+					<nav class="navbar navbar-expand-lg">
+						<div class="collapse navbar-collapse" id="navbarColor03">
+							<ul class="navbar-nav mr-auto">
+								<li class="nav-item">
+									<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="#">List</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="#">Ranking</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link" href="#">API</a>
+								</li>
+							</ul>
+							<form class="form-inline my-2 my-lg-0">
+								<input class="form-control mr-sm-2" type="text" placeholder="Search">
+								<button class="btn btn-secondary my-2 my-sm-0" type="submit">Search</button>
+							</form>
+						</div>
+					</nav>
+					<br>
+					<hr>
+					<div class="row">
+						<div class="btn-group btn-lg btn-block">
+							<button type="button" class="btn btn-outline-secondary">
+								<h5>
+									<p class="text-left">
+										<strong>최고 모든 서버 동시 접속자</strong>
+										<br>
+										5000명
+									</p>
+								</h5>
+							</button>
+							<button type="button" class="btn btn-outline-secondary">
+								<h5>
+									<p class="text-left">
+										<strong>오늘 최고 모든 서버 동시 접속자</strong>
+										<br>
+										5000명
+									</p>
+								</h5>
+							</button>
+							<button type="button" class="btn btn-outline-secondary">
+								<h5>
+									<p class="text-left">
+										<strong>어제 최고 모든 서버 동시 접속자</strong>
+										<br>
+										5000명
+									</p>
+								</h5>
+							</button>
+							<button type="button" class="btn btn-outline-secondary">
+								<h5>
+									<p class="text-left">
+										<strong>모든 서버 동시 접속자</strong>
+										<br>
+										5000명
+									</p>
+								</h5>
+							</button>
+							<button type="button" class="btn btn-outline-secondary">
+								<h5>
+									<p class="text-left">
+										<strong>등록된 서버</strong>
+										<br>
+										50개
+									</p>
+								</h5>
+							</button>
+						</div>
+					</div>
+					<br>
+					<div class="row">
+						<div class="col-xs-12 col-sm-5 col-md-8">
+							<div class="card border-info">
+								<div class="card-body">
+									<canvas id="Players"></canvas>
+								</div>
+							</div>
+						</div>
+						<div class="col-xs-12 col-sm-4 col-md-4">
+							<div class="card border-success">
+								<div class="card-body">
+									<canvas id="Version"></canvas>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-1"></div>
+			</div>
+		</div>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<script type="text/javascript"  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+		<script type="text/javascript" src="js/bootstrap.js"></script>
+<script>
+var ctx = document.getElementById("Players").getContext('2d');
+new Chart(ctx, {
+    type: 'line',
+    data: {
+            labels: [
+				"22:40",
+				"22:50",
+				"23:00",
+				"23:10",
+				"23:20",
+				"23:30",
+				"23:40",
+				"23:50",
+				"24:10",
+				"24:20",
+				"24:50",
+				"01:00"
+			],
+        datasets: [{
+			data: [2186, 2169, 2154, 2203, 2180, 2233, 2362, 2352, 2356, 2357, 2431, 2479],
+			label: "Players",
+			backgroundColor: 'rgba(0,103,255,0.15)',
+			borderColor: 'rgba(0,103,255,0.5)',
+			borderWidth: 3.5,
+			pointStyle: 'circle',
+			pointRadius: 5,
+			pointBorderColor: 'transparent',
+			pointBackgroundColor: 'rgba(0,103,255,0.5)',
+        }]
+    },
+    /* options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero:true
+                }
+            }]
+        }
+    } */
+});
+var ctx = document.getElementById('Version').getContext('2d');
+new Chart(ctx, {
+			type: 'pie',
+			data: {
+				datasets: [{
+                data: [
+					26, 1, 1, 12, 1, 2, 2, 1, 1, 1				],
+                backgroundColor: [
+									"rgba(159, 136, 175, 1)", "rgba(38, 10, 244, 1)", "rgba(165, 16, 125, 1)", "rgba(196, 17, 219, 1)", "rgba(32, 211, 172, 1)", "rgba(35, 221, 180, 1)", "rgba(5, 146, 210, 1)", "rgba(59, 244, 76, 1)", "rgba(172, 79, 86, 1)", "rgba(78, 230, 155, 1)"                                ],
+				}],
+            labels: [
+			"1.12.2", "1.12", "1.8.X - 1.13.X", "1.5.2", "Spigot 1.12.2", "1.7.X~1.13.X", "1.8.X~1.13.X", "1.10.2", "", "1.8.X~1.12.X"                        ]
+			},
+			options: {
+				responsive: true
+			}
+		});
+</script>
+	</body>
+</html>

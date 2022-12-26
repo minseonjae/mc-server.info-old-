@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"[ §c시류서버 §r] §e최고의 마인팜 §7| §4[§c매일오후8시이벤트§4]",
+	"players":7,
+	"maxplayers":1111,
+	"ping":8,
+	"srv":true,
+	"online":false,
+	"uptime":{
+		"get":0,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-02-03 오후 05:48:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-01-27 오후 08:02:00",
+			"players":136
+		},
+		"today":{
+			"time":"?",
+			"players":0
+		},
+		"yesterday":{
+			"time":"?",
+			"players":0
+		}
+	}
+}

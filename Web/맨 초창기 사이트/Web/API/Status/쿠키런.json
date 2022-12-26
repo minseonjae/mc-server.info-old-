@@ -1,0 +1,11 @@
+{
+	"ip":"cookierun.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§6§l[ §f§lkit §6§l] §e§l설날 §d§l이벤트 §a§l시작 §f§l~ [ 9시 §d§l이벤트 §f§l]",
+	"players":"106",
+	"maxplayers":"999",
+	"ping":47,
+	"srv":true
+}

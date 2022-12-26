@@ -1,0 +1,11 @@
+{
+	"ip":"erpg1.skhidc.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"Paper 1.12.2",
+	"motd":"§c§l[동양 RPG - 적영(2서버)] §c백섭보상 디스코드공지확인!",
+	"players":"50",
+	"maxplayers":"190",
+	"ping":63,
+	"srv":true
+}

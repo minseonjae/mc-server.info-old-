@@ -1,0 +1,11 @@
+{
+	"ip":"sley.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§e[ §fSLEY §e]§a[ §f15일차 §a]§c[ §f오늘 §b리붓§f때 §a최적화§f해볼게요 §c]",
+	"players":"37",
+	"maxplayers":"60",
+	"ping":16,
+	"srv":true
+}

@@ -1,0 +1,11 @@
+{
+	"ip":"herac.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§7[ §f도시능력자 §7] §f신입유저분들 모두 §e환영§f합니다!",
+	"players":"26",
+	"maxplayers":"150",
+	"ping":16,
+	"srv":true
+}

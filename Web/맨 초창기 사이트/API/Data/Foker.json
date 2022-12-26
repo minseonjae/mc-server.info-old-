@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§e[ §f포컬서버 §e] §f마지막 오류or 버그 수정중 ! \/ 최대한 빠르게 오픈예정 !",
+	"players":0,
+	"maxplayers":80,
+	"ping":31,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1388,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-06 오후 07:40:00",
+			"players":13
+		},
+		"today":{
+			"time":"오후 01:50:00",
+			"players":7
+		},
+		"yesterday":{
+			"time":"오후 02:33:00",
+			"players":11
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"ip":"rendog.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"Spigot 1.12.2",
+	"motd":"§f§lRendog RPG §c[1.10~1.12.2] §e환영합니다.\n§6§o§k§l.....§f §f경험치 §a§l1.5§f배 부스트! §7[§e§l새해이벤트 진행중§7] §c§l[§f§l\/이벤트§c§l] §6§l§o§k.....",
+	"players":"125",
+	"maxplayers":"2018",
+	"ping":109,
+	"srv":true
+}

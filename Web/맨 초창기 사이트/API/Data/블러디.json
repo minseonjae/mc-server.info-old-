@@ -1,0 +1,33 @@
+{
+	"version":"1.5.2",
+	"protocol":61,
+	"motd":"§c§l[§f§l BLDSV §c§l]§f 11시 40분 §4§l레전드급 §6§l상자이벤트 §f진행!",
+	"players":77,
+	"maxplayers":200,
+	"ping":31,
+	"srv":true,
+	"online":true,
+	"uptime":{
+		"get":1379,
+		"check":1395
+	},
+	"last":{
+		"get":"2019-03-10 오후 11:20:00",
+		"check":"2019-03-10 오후 11:20:00"
+	},
+	"peak":{
+		"day":"10",
+		"allday":{
+			"time":"2019-03-02 오후 02:36:00",
+			"players":198
+		},
+		"today":{
+			"time":"오후 02:33:00",
+			"players":151
+		},
+		"yesterday":{
+			"time":"오후 02:41:00",
+			"players":168
+		}
+	}
+}

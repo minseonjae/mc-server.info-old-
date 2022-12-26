@@ -1,0 +1,11 @@
+{
+	"ip":"hgsv.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§9§l[ §f§lHGSV §9§l] §7:: §f수요일 템복구 예정 §c오후 2 9 11시 핫타임",
+	"players":"51",
+	"maxplayers":"200",
+	"ping":31,
+	"srv":true
+}

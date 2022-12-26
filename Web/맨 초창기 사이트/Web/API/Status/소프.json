@@ -1,0 +1,11 @@
+{
+	"ip":"spsv.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§c§l[§f§l BLDSV §c§l]§f 11시 20분 §3§l자동화§b§l추첨 §f이벤트",
+	"players":"102",
+	"maxplayers":"200",
+	"ping":16,
+	"srv":true
+}

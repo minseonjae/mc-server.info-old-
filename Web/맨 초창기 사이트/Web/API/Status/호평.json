@@ -1,0 +1,11 @@
+{
+	"ip":"hopyeong.kr",
+	"port":25565,
+	"protocol":"127",
+	"version":"BungeeCord 1.8.x-1.13.x",
+	"motd":"§f§a§m一一一 §6[§d1.12.2§7-1.13.2§6] §b호평서버 §d24\/7 §e반야생\/경제 §a§m一一一",
+	"players":"39",
+	"maxplayers":"250",
+	"ping":0,
+	"srv":false
+}

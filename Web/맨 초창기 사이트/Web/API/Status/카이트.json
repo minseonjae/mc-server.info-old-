@@ -1,0 +1,11 @@
+{
+	"ip":"mckite.net",
+	"port":25565,
+	"protocol":"?",
+	"version":"?",
+	"motd":"[ 카이트 시스템 ] 카이트 경제\/농사 서버 [24H]\n     버전: 1.8~1.12.2, 서버 시즌: 13\n#[ Christmas ] 12월 25~28일, 후원 2배 이벤트\n#[ Christmas ] 12월 25~28일, 후원 2배 이벤트\n#[ Christmas ] 12월 25~28일, 후원 2배 이벤트",
+	"players":"83",
+	"maxplayers":"200",
+	"ping":187,
+	"srv":true
+}

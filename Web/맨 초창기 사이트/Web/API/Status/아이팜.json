@@ -1,0 +1,11 @@
+{
+	"ip":"imine.kr",
+	"port":25565,
+	"protocol":"61",
+	"version":"1.5.2",
+	"motd":"§e§l#아이팜 §f오후 8시 나야나, 핫타임 캐시뿌린다고?!",
+	"players":"134",
+	"maxplayers":"250",
+	"ping":63,
+	"srv":true
+}
